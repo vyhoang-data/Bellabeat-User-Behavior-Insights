@@ -44,7 +44,7 @@ After exploring hourly and daily device logs, these patterns emerged and define 
 
 * **Later start:** Users are less active in mornings and evenings on weekends.
 * **Midday peak:** Activity concentrates between **10 AM–4 PM**, peaking at **2 PM (~572 steps)**.
-* **Incidental movement:** Hourly peaks (~600 steps) are well below a 30-minute walking benchmark (≈3,000–4,000 steps) *according to The Health News Team, 2022*, indicating light or incidental movement rather than dedicated workouts.
+* **Incidental movement:** Hourly peaks (~600 steps) are well below a 30-minute walking benchmark (≈3,000–4,000 steps) *(The Health News Team, 2022)*, indicating light or incidental movement rather than dedicated workouts.
 
 ### 3. The "Engagement Gap" (Feature Reliance)
 
