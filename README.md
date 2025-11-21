@@ -24,7 +24,7 @@ Bellabeat designs health-first wearables and apps for women. This project analyz
 ## 🛠 Tools & Tech Stack
 
 * **Data Cleaning & Transformation:** Google BigQuery (SQL)
-* **Data Visualization:** Tableau Public
+* **Data Visualization:** [Tableau Public](https://public.tableau.com/app/profile/vy.hoang7117/vizzes)
 * **Data Source:** [FitBit Fitness Tracker Data (Kaggle)](https://www.kaggle.com/datasets/arashnic/fitbit)
 
 ---
