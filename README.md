@@ -96,7 +96,7 @@ Bellabeat can also strengthen its brand by offering **short, actionable wellness
 
 ## 📈 Data Analysis & SQL Overview
 
-This project used BigQuery to compute participation, activity distributions, and hourly trends. Below are key SQL snippets (adapt for your dataset paths):
+This project used BigQuery to compute participation, activity distributions, and hourly trends. 
 
 ### Participation Rates (Feature Reliance)
 
