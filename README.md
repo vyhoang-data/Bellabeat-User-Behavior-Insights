@@ -158,7 +158,7 @@ An interactive Tableau Public dashboard was built to explore weekday vs. weekend
 
 I learned that SQL queries are just the beginning. The real value comes from translating a query result (like "575 steps at 7 PM") into a human behavior (the post-work commute) and a business strategy.
 
-Moreover, Using Tableau, I learned how to highlight the difference between datasets (Weekday vs. Weekend) rather than just plotting points, making the insights obvious to stakeholders immediately.
+Moreover, using Tableau, I learned how to highlight the difference between datasets (Weekday vs. Weekend) rather than just plotting points, making the insights obvious to stakeholders immediately.
 
 ---
 
